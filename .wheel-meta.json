@@ -1,0 +1,22 @@
+{
+  "wheel_id": 530,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-107",
+  "project": "retaining-wall-construction-newcastle-planning-guide-097db55ab5",
+  "parent_t1_ref": "retainingwallnewcastle-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining wall construction newcastle planning guide",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-construction-newcastle-planning-guide-097db55ab5/",
+  "tier": "T2",
+  "writeback_nonce": "5cddf7d863673e8d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallnewcastle-153/",
+      "anchor": "the retaining wall construction newcastle overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
